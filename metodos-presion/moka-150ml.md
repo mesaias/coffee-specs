@@ -30,8 +30,7 @@
 6. **Corte y Enfriado**: En cuanto el flujo cambie de un chorro denso a una fase de burbujas claras (fase de vapor), retirar del fuego y verter de inmediato.
 
 ## 📸 Bitácora de Imágenes
-> *Sugerencia: Añadir foto de la molienda nivel 27 para comparar con el nivel 17 de la Brikka.*
-*(Sin imágenes actualmente)*
+> *Les debo las imágenes*
 
 ## 💡 Notas y consejos
 - El uso de agua pre-calentada es crítico para preservar las notas dulces del grano, evitando el sabor amargo/quemado característico de las extracciones que inician desde agua fría en este método.
