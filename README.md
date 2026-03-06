@@ -22,3 +22,17 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 1. Crea un nuevo archivo `.md` en la carpeta correspondiente.
 2. Utiliza la [Plantilla de Receta](templates/receta-base.md) para mantener el formato.
 3. Añade tu nueva receta al índice de este archivo.
+
+## 📄 Generar versión en PDF
+Si deseas una versión offline o para imprimir de todo el libro:
+
+1. Asegúrate de tener [Node.js](https://nodejs.org/) instalado.
+2. Instala las dependencias (solo la primera vez):
+   ```bash
+   npm install
+   ```
+3. Genera el PDF:
+   ```bash
+   npm run generate-pdf
+   ```
+El archivo aparecerá en la raíz como `Coffee-Specs-Libro.pdf`.
