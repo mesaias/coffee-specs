@@ -32,9 +32,6 @@
 8. **Tercer vertido (1:45)**: Verter los últimos **84ml** con el mismo movimiento circular hasta alcanzar los **220ml** totales.
 9. **Finalización (2:30 - 3:00)**: La extracción debería terminar entre los 2:30 y 3:00 minutos. Retirar el V60 y servir de inmediato.
 
-## 📸 Bitácora de Imágenes
-> *Referencia: Ilustración de Kalita/V60 en báscula (ver PDF original)*
-
 ## 💡 Notas y consejos
 - **Ajuste de molienda**: Si el drenaje termina antes de 2:30, moler más fino. Si tarda más de 3:00, moler más grueso.
 - **Temperatura por Altitud**: La regla general es $T_{objetivo} \approx T_{ebullición} - 16^\circ C$.
