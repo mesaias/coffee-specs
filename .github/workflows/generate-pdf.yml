@@ -9,10 +9,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso para que el bot pueda subir cambios
 
     steps:
       - name: 📥 Clonar repositorio
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Clon completo para el push
 
       - name: 🟢 Configurar Node.js
         uses: actions/setup-node@v4
@@ -26,10 +30,21 @@ jobs:
       - name: 🚀 Generar PDF
         run: npm run generate-pdf
 
-      - name: 📤 Subir PDF como artefacto
+      - name: 📝 Auto-commit del PDF
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add Coffee-Specs-Libro.pdf
+          if git diff --staged --quiet; then
+            echo "No hay cambios en el PDF para subir."
+          else
+            git commit -m "docs: actualizar libro de recetas PDF automático [skip ci]"
+            git push origin master
+          fi
+
+      - name: 📤 Subir PDF como artefacto (opcional)
         uses: actions/upload-artifact@v4
         with:
           name: Coffee-Specs-Libro
           path: Coffee-Specs-Libro.pdf
-          if-no-files-found: error
-          retention-days: 90
+          retention-days: 7
