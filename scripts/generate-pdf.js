@@ -85,6 +85,9 @@ ${contentMarkdown}
             displayHeaderFooter: true,
             headerTemplate: '<span style="font-size: 10px; margin-left: 20px; color: #777; font-family: sans-serif;">☕ Coffee Specs</span>',
             footerTemplate: '<div style="font-size: 10px; margin: 0 auto; color: #777; font-family: sans-serif;"><span class="pageNumber"></span> / <span class="totalPages"></span></div>',
+        },
+        launch_options: {
+            args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
         }
     };
 
