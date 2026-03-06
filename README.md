@@ -14,6 +14,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 ### 🌊 Métodos de Filtro
 - [Chemex 750ml](metodos-filtro/chemex-750ml.md)
 - [V60 50g](metodos-filtro/v60-50g.md)
+- [V60 Especialidad](metodos-filtro/v60-especialidad.md)
 
 ### ⚙️ Equipamiento y Calibración
 - [DF54 Calibración](equipamiento/df54-calibracion.md)
