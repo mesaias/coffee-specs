@@ -10,13 +10,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permiso para que el bot pueda subir cambios
+      contents: write # Permiso para que el bot pueda subir cambios (el pdf a root dentro del mismo repo)
 
     steps:
       - name: 📥 Clonar repositorio
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Clon completo para el push
+          fetch-depth: 0
 
       - name: 🟢 Configurar Node.js
         uses: actions/setup-node@v4
