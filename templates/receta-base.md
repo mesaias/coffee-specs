@@ -18,6 +18,8 @@
 2. [Paso 2...]
 3. [Paso 3...]
 
-## 💡 Notas y consejos
+## 📸 Bitácora de Imágenes (Opcional)
+
+## 💡 Notas y consejos (Opcional)
 - *[Ej: Si queda muy amargo, aumentar ligeramente el tamaño de molienda]*
 - *[Ej: Tiempo total estimado: 3:00 min]*

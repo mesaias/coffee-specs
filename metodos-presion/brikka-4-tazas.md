@@ -37,7 +37,7 @@
 - **v3 (Nivel 19)**: Ajuste actual para buscar equilibrio entre presión y claridad.
 
 ## 📸 Bitácora de Imágenes
-- v2
+- v 2- error
 
 ![Resultado Brikka](../assets/images/brikka-induccion-4-tazas-v2-error.jpg)
 
