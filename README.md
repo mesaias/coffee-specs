@@ -1,14 +1,15 @@
 # ☕ Coffee Specs - Libro de Recetas de Café
 
 > [!IMPORTANT]  
-> Versión muy temprana del proyecto. Por el momento solo las recetas de [Moka 150ml](metodos-presion/moka-150ml.md) y [Brikka 4 tazas](metodos-presion/brikka-4-tazas.md) están completas.
+> Versión muy temprana del proyecto. Por el momento solo las recetas de [Moka 150ml](metodos-presion/moka-150ml.md) y [Brikka Induction](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md) están completas.
 
 Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y compartir tus métodos favoritos para cada cafetera y equipamiento.
 
 ## 🧭 Índice rápido
 
 ### 🌪️ Métodos de Presión
-- [Brikka 4 tazas](metodos-presion/brikka-4-tazas.md)
+- [Brikka Induction: Arábico Estándar](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md)
+- [Brikka Induction: Geisha](metodos-presion/brikka-4-tazas-induction-geisha.md)
 - [Moka 150ml](metodos-presion/moka-150ml.md)
 
 ### 🌊 Métodos de Filtro
