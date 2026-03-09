@@ -30,8 +30,8 @@
 6. **Corte y Servicio**: Retirar de la placa al primer cambio de sonido (burbujeo). Servir de inmediato a 45° en tazas previamente calentadas.
 
 ## 📸 Bitácora de Imágenes
-
-![Resultado Brikka](../assets/images/brikka-induccion-4-tazas-arabica.jpg)
+A disfrutar de unos buenos expresso
+<img src="../assets/images/brikka-induccion-4-tazas-arabica.jpg" width="350">
 
 ---
 

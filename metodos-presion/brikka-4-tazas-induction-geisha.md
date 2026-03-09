@@ -39,7 +39,7 @@
 ## 📸 Bitácora de Imágenes
 - v 2- error
 
-![Resultado Brikka](../assets/images/brikka-induccion-4-tazas-v2-error.jpg)
+<img src="../assets/images/brikka-induccion-4-tazas-v2-error.jpg" width="350">
 
 ## 💡 Notas y consejos
 - La Brikka es famosa por su "crema". Si no sale, prueba con un café más fresco o una molienda un poco más fina.
