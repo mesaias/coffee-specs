@@ -10,7 +10,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 ### 🌪️ Métodos de Presión
 - [Brikka Induction: Arábico Estándar](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md)
 - [Brikka Induction: Arábico Daily (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-estandar-agua-precalentada.md)
-- [Brikka Induction: Geisha](metodos-presion/brikka-4-tazas-induction-geisha.md)
+- [Brikka Induction: Geisha Huatusco](metodos-presion/brikka-4-tazas-induction-geisha.md)
 - [Brikka Induction: Geisha Huatusco (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-geisha-agua-precalentada.md)
 - [Brikka Induction: Huupa Descafeinado (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-descafeinado-agua-precalentada.md)
 - [Moka 150ml](metodos-presion/moka-150ml.md)
