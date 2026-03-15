@@ -54,16 +54,22 @@ async function generatePdf() {
             content = content.replace(/^#\s+(.*)/m, `# <a name="${anchor}"></a> $1`);
 
             // Ajustar rutas de imágenes para que sean relativas a la raíz del proyecto
+            // 1. Manejar sintaxis estándar de Markdown: ![alt](src)
             content = content.replace(/!\[(.*?)\]\((.*?)\)/g, (match, alt, src) => {
                 if (src.startsWith('http')) return match;
-                // Obtener la ruta absoluta de la imagen
                 const absoluteImagePath = path.resolve(path.dirname(filePath), src);
-                // Convertirla en una ruta relativa desde la raíz del proyecto (donde está el basedir)
                 const projectRoot = path.join(__dirname, '..');
                 const relativeImagePath = path.relative(projectRoot, absoluteImagePath);
-                
-                // Asegurar que use slashes / incluso en Windows
                 return `![${alt}](${relativeImagePath.replace(/\\/g, '/')})`;
+            });
+
+            // 2. Manejar sintaxis HTML: <img src="src" ...>
+            content = content.replace(/<img\s+([^>]*?)src=["'](.*?)["']([^>]*?)>/g, (match, before, src, after) => {
+                if (src.startsWith('http')) return match;
+                const absoluteImagePath = path.resolve(path.dirname(filePath), src);
+                const projectRoot = path.join(__dirname, '..');
+                const relativeImagePath = path.relative(projectRoot, absoluteImagePath).replace(/\\/g, '/');
+                return `<img ${before}src="${relativeImagePath}"${after}>`;
             });
 
             contentMarkdown += content + '\n\n<div class="page-break"></div>\n\n';

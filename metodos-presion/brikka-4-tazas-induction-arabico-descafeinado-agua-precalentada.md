@@ -1,5 +1,10 @@
 # Brikka: Huupa Descafeinado Natural (v1.0)
 
+**Estado:** ✅ EXITO (Validado el 07-03-2026)
+**Resultado:** Extracción con cuerpo denso, crema elástica y flujo laminar sin turbulencia.
+
+---
+
 ## ☕ Ficha técnica
 - **Método**: Brikka Induction (4 tazas)
 - **Ratio**: 1:5.3
@@ -22,11 +27,9 @@
 5. **Extracción**: Colocar en inducción nivel 8. Al primer siseo y flujo de café, bajar inmediatamente a nivel 5.
 6. **Corte**: Retirar de la placa en cuanto el flujo cubra el fondo y el siseo se vuelva constante.
 
-## 📸 Bitácora de Imágenes (Opcional)
-- **Extracción**: [Insertar referencia a 1000343986.mp4]
-- **Resultado final**: [Insertar referencia a 1000344000.jpg]
+## 📸 Bitácora de Imágenes
+<img src="../assets/images/brikka-induccion-4-tazas-descafeinado.jpg" width="350">
 
-## 💡 Notas y consejos (Opcional)
-- *Este café es ideal para bebidas con leche debido a su tueste medio oscuro y proceso de descafeinado en leña.*
+## 💡 Notas y consejos
 - *Si notas el flujo inicial muy violento ("escupitajo"), subir a nivel 23 en la DF54 para reducir la resistencia inicial.*
-- *Al ser descafeinado, el grano es más frágil; no permitas que la cafetera repose en la inducción apagada para evitar amargor excesivo.*
+- *Se sacrifica la crema pero se obtiene una mejor consistencia, suavidad y un gran café para preparar un latte o capuccino*

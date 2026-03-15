@@ -8,7 +8,7 @@
 ## ☕ Ficha técnica
 - **Método**: Cafetera Moka Tradicional (150ml)
 - **Ratio**: 1:7.5 (Aproximado)
-- **Café**: 20g (Ajustado al volumen del embudo)
+- **Café**: 16g (Ajustado al volumen del embudo)
 - **Agua**: 150ml (Hasta la válvula de seguridad)
 - **Molienda**: Fina-Media / **Nivel 27** en DF54
 - **Temperatura**: Inicio con agua caliente (opcional) para acelerar flujo
@@ -21,7 +21,7 @@
 
 ## 📝 Procedimiento
 1. **Molienda**: Ajustar la DF54 al **nivel 27**. Esta molienda es más gruesa que la de Brikka para permitir un flujo constante sin generar presión excesiva.
-2. **Carga del Café**: Verter los 20g en el embudo. Nivelar la superficie con ligeros golpes laterales; **no compactar** para evitar que el agua se estanque.
+2. **Carga del Café**: Verter los 16g en el embudo. Nivelar la superficie con ligeros golpes laterales; **no compactar** para evitar que el agua se estanque.
 3. **Llenado de Agua**: Verter 150ml en la base, asegurando que el nivel quede justo por debajo de la válvula de seguridad.
 4. **Cierre**: Enroscar firmemente asegurando que no haya residuos de café en la junta de goma.
 5. **Gestión de Calor**: 
