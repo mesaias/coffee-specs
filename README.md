@@ -16,7 +16,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Moka 150ml](metodos-presion/moka-150ml.md)
 
 ### 🌊 Métodos de Filtro
-- [Chemex 750ml](metodos-filtro/chemex-750ml.md)
+- [Chemex: Arábico Daily (4 tazas / 600ml)](metodos-filtro/chemex-600ml-arabico-estandar.md)
 - [V60 50g](metodos-filtro/v60-50g.md)
 - [V60 Especialidad](metodos-filtro/v60-especialidad.md)
 
