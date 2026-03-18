@@ -26,6 +26,9 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 ### 🧪 Experimentos
 - [Brikka con Cremina (Azúcar)](experimentos/brikka-cremina-azucar.md)
 
+### 📖 Glosario
+- [Diccionario de Conceptos](DICCIONARIO.md)
+
 ## ✍️ ¿Cómo contribuir?
 1. Crea un nuevo archivo `.md` en la carpeta correspondiente.
 2. Utiliza la [Plantilla de Receta](templates/receta-base.md) para mantener el formato.
