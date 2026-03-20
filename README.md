@@ -14,6 +14,8 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Brikka Induction: Geisha Huatusco (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-geisha-agua-precalentada.md)
 - [Brikka Induction: Huupa Descafeinado (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-descafeinado-agua-precalentada.md)
 - [Moka 150ml](metodos-presion/moka-150ml.md)
+- [Moka Tradicional: Arábico 6 Tazas (Adaptador Inducción)](metodos-presion/moka-6-tazas-adaptador-induction-arabico-estandar.md)
+- [Moka Tradicional: Huupa Descafeinado (Adaptador Inducción)](metodos-presion/moka-6-tazas-adaptador-induction-arabico-descafeinado.md)
 
 ### 🌊 Métodos de Filtro
 - [Chemex: Arábico Daily (4 tazas / 600ml)](metodos-filtro/chemex-600ml-arabico-estandar.md)
@@ -22,6 +24,9 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 
 ### ⚙️ Equipamiento y Calibración
 - [DF54 Calibración](equipamiento/df54-calibracion.md)
+
+### 🛠️ Resolución de Problemas
+- [Guía de Diagnóstico (Troubleshooting)](DIAGNOSTICO.md)
 
 ### 🧪 Experimentos
 - [Brikka con Cremina (Azúcar)](experimentos/brikka-cremina-azucar.md)
