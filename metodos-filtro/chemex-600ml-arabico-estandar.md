@@ -5,7 +5,7 @@
 - **Ratio**: 1:15
 - **Café**: 40g (Arábico con cafeína)
 - **Agua**: 600ml
-- **Molienda**: Media-Gruesa / **Nivel 65** en DF54
+- **Molienda**: Media-Gruesa / **Nivel 69** en DF54
 - **Temperatura**: **195°F (90.5°C)**
 
 ## 🛠️ Equipamiento adicional
@@ -27,6 +27,6 @@
 - **Les debo la foto**
 
 ## 💡 Notas y consejos
-- *Si la filtración total tarda menos de 3:30, baja a Nivel 60 en la DF54.*
-- *Si la filtración total tarda más de 5:30, sube a Nivel 70 en la DF54.*
+- *Si la filtración total tarda menos de 3:30, baja a Nivel 55 en la DF54.*
+- *Si la filtración total tarda más de 5:30, sube a Nivel 65 en la DF54.*
 - *La tetera en modo 195°F (Oolong) ofrece el balance dulce perfecto para este ratio, evitando la sobre-extracción que ocurre con el modo 205°F (Coffee) en filtrados largos.*

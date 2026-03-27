@@ -2,3 +2,5 @@ node_modules/
 .DS_Store
 *.log
 GEMINI.md
+mobile_app/*
+CURRENT_TASK.md

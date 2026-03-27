@@ -5,7 +5,7 @@
 - **Ratio**: ~1:10.7
 - **Café**: 28g (Huupa - Tueste Medio Oscuro / Descafeinado Natural)
 - **Agua**: 300ml (Hasta la válvula)
-- **Molienda**: Media / **Nivel 30** en DF54
+- **Molienda**: Media / **Nivel 25** en DF54
 - **Temperatura**: **185°F (85°C)** [Modo White en tetera]
 
 ## 🛠️ Equipamiento adicional
@@ -16,7 +16,7 @@
 
 ## 📝 Procedimiento
 1. **Calentamiento**: Calentar los 300ml de agua usando el modo **185°F (White)**. No uses el modo Coffee (205°F), ya que el descafeinado es más frágil y se amarga rápido.
-2. **Molienda**: Moler 28g en nivel 30. Subimos un poco respecto al arábico normal porque el descafeinado genera más "polvo" (finos) que pueden obstruir el filtro.
+2. **Molienda**: Moler 28g en nivel 25. Subimos un poco respecto al arábico normal porque el descafeinado genera más "polvo" (finos) que pueden obstruir el filtro.
 3. **Carga**: Llenar el embudo nivelando con toques, sin presionar.
 4. **Montaje**: Verter el agua a 185°F en la base y cerrar con el trapo para asegurar un sello hermético rápido.
 5. **Extracción**: 
@@ -29,5 +29,5 @@
 
 ## 💡 Notas y consejos
 - *Al ser un café tostado en leña de mezquite, la temperatura baja (185°F) es clave para no resaltar notas a ceniza.*
-- *Si el sabor es muy tenue, baja a Nivel 28 en la siguiente prueba.*
+- *Si el sabor es muy tenue, baja a Nivel 23 en la siguiente prueba.*
 - *Si tarda más de 5 minutos en salir, sube la molienda a Nivel 32.*

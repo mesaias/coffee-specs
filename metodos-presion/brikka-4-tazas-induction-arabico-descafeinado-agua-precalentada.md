@@ -10,7 +10,7 @@
 - **Ratio**: 1:5.3
 - **Café**: 28g (Huupa - Tueste Medio Oscuro)
 - **Agua**: 150ml (Precalentada)
-- **Molienda**: Nivel 22 en DF54
+- **Molienda**: Nivel 17 en DF54
 - **Temperatura**: Agua precalentada (~75°C) para reducir tiempo en estufa
 
 ## 🛠️ Equipamiento adicional
@@ -21,7 +21,7 @@
 
 ## 📝 Procedimiento
 1. **Preparación**: Calentar 150ml de agua por separado hasta los 75°C aproximadamente.
-2. **Molienda**: Moler los 28g en nivel 22 de la DF54; usar RDT si el grano descafeinado genera mucha estática.
+2. **Molienda**: Moler los 28g en nivel 17 de la DF54; usar RDT si el grano descafeinado genera mucha estática.
 3. **Carga**: Verter el café en el filtro cónico y nivelar con ligeros golpes laterales sin compactar.
 4. **Ensamble**: Verter el agua caliente en la base y cerrar con fuerza máxima usando un trapo para protegerse del calor.
 5. **Extracción**: Colocar en inducción nivel 8. Al primer siseo y flujo de café, bajar inmediatamente a nivel 5.
