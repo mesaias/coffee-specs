@@ -8,6 +8,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 ## 🧭 Índice rápido
 
 ### 🌪️ Métodos de Presión
+- [Brikka 2 Tazas: Arábico Estándar](metodos-presion/brikka-2-tazas-arabico-estandar.md)
 - [Brikka Induction: Arábico Estándar](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md)
 - [Brikka Induction: Arábico Daily (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-estandar-agua-precalentada.md)
 - [Brikka Induction: Geisha Huatusco](metodos-presion/brikka-4-tazas-induction-geisha.md)
@@ -19,8 +20,12 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 
 ### 🌊 Métodos de Filtro
 - [Chemex: Arábico Daily (4 tazas / 600ml)](metodos-filtro/chemex-600ml-arabico-estandar.md)
+- [Chemex: Geisha Huatusco (600ml)](metodos-filtro/chemex-600ml-geisha.md)
 - [V60 50g](metodos-filtro/v60-50g.md)
 - [V60 Especialidad](metodos-filtro/v60-especialidad.md)
+
+### 🚀 Métodos de AeroPress
+- [AeroPress: Geisha - Concentrado Invertido](aeropress/concentrado-invertido-geisha.md)
 
 ### ⚙️ Equipamiento y Calibración
 - [DF54 Calibración](equipamiento/df54-calibracion.md)

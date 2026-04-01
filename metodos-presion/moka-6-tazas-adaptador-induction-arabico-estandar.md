@@ -5,7 +5,7 @@
 - **Ratio**: ~1:10.7
 - **Café**: 28g (Arábico con cafeína)
 - **Agua**: 300ml (Hasta justo debajo de la válvula)
-- **Molienda**: Media / **Nivel 28** en DF54
+- **Molienda**: Media / **Nivel 23** en DF54
 - **Temperatura**: Agua precalentada (~75°C)
 
 ## 🛠️ Equipamiento adicional
@@ -16,7 +16,7 @@
 
 ## 📝 Procedimiento
 1. **Preparación**: Calentar 300ml de agua por separado (puedes usar el modo "White" o "Oolong" de tu tetera para no llegar a ebullición).
-2. **Molienda**: Moler 28g en el nivel 28 de la DF54.
+2. **Molienda**: Moler 28g en el nivel 23 de la DF54.
 3. **Carga**: Llenar el embudo con el café nivelando con golpecitos laterales. **No compactar** para permitir que el adaptador venza la inercia térmica sin quemar el grano.
 4. **Montaje**: Verter el agua caliente en la base, colocar el embudo y cerrar firmemente con un trapo grueso.
 5. **Inducción**: 

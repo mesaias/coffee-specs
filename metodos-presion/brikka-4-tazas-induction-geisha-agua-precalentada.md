@@ -5,7 +5,7 @@
 - **Ratio**: 1:5.3
 - **Café**: 28g (Geisha Huatusco - Tueste Medio)
 - **Agua**: 150ml
-- **Molienda**: Media-fina / Nivel 22 en DF54
+- **Molienda**: Media-fina / Nivel 17 en DF54
 - **Temperatura**: Agua precalentada (~75°C)
 
 ## 🛠️ Equipamiento adicional
@@ -16,7 +16,7 @@
 
 ## 📝 Procedimiento
 1. **Precalentamiento**: Calentar 150ml de agua filtrada por separado hasta alcanzar aproximadamente 75°C.
-2. **Molienda**: Pesar 28g de Geisha y moler en el nivel 22 de la DF54 para asegurar un flujo constante y sin bloqueos.
+2. **Molienda**: Pesar 28g de Geisha y moler en el nivel 17 de la DF54 para asegurar un flujo constante y sin bloqueos.
 3. **Carga**: Verter el café en el filtro cónico y nivelar con golpecitos laterales; no aplicar presión sobre la pastilla.
 4. **Ensamble**: Verter el agua caliente en la base de la Brikka y enroscar el recolector superior inmediatamente usando el trapo para lograr un sello hermético.
 5. **Inducción**: Colocar sobre la estufa en Nivel 8.
@@ -29,6 +29,6 @@
 - **Color Final**: Avellanado brillante
 
 ## 💡 Notas y consejos
-- *El nivel 22 es crítico para este grano; niveles más bajos (16-19) provocan extracciones violentas y amargas.*
+- *El nivel 17 es crítico para este grano; niveles más bajos (11-14) provocan extracciones violentas y amargas.*
 - *El agua precalentada protege las notas volátiles del Geisha al reducir el tiempo de exposición al calor seco de la inducción.*
 - *Si el volumen final es menor a 120ml, se recomienda verificar que no existan fugas de vapor en la rosca.*
