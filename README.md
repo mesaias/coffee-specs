@@ -14,6 +14,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Brikka Induction: Geisha Huatusco](metodos-presion/brikka-4-tazas-induction-geisha.md)
 - [Brikka Induction: Geisha Huatusco (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-geisha-agua-precalentada.md)
 - [Brikka Induction: Huupa Descafeinado (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-descafeinado-agua-precalentada.md)
+- [Brikka Induction: Kirkland Tostado Medio (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-kirland-tostado-medio-agua-precalentada.md)
 - [Moka 150ml](metodos-presion/moka-150ml.md)
 - [Moka Tradicional: Arábico 6 Tazas (Adaptador Inducción)](metodos-presion/moka-6-tazas-adaptador-induction-arabico-estandar.md)
 - [Moka Tradicional: Huupa Descafeinado (Adaptador Inducción)](metodos-presion/moka-6-tazas-adaptador-induction-arabico-descafeinado.md)
@@ -23,6 +24,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Chemex: Geisha Huatusco (600ml)](metodos-filtro/chemex-600ml-geisha.md)
 - [V60 50g](metodos-filtro/v60-50g.md)
 - [V60 Especialidad](metodos-filtro/v60-especialidad.md)
+- [V60: Kirkland Tostado Medio](metodos-filtro/v60-kirland-tostado-medio.md)
 
 ### 🚀 Métodos de AeroPress
 - [AeroPress: Geisha - Concentrado Invertido](aeropress/concentrado-invertido-geisha.md)
@@ -56,4 +58,6 @@ Si deseas una versión offline o para imprimir de todo el libro:
    ```bash
    npm run generate-pdf
    ```
+El archivo aparecerá en la raíz como `Coffee-Specs-Libro.pdf`.
+  ```
 El archivo aparecerá en la raíz como `Coffee-Specs-Libro.pdf`.
