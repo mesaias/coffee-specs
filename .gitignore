@@ -1,7 +1,6 @@
 node_modules/
 .DS_Store
 *.log
-GEMINI.md
 CURRENT_TASK.md
 Coffee-Specs-Libro.pdf
 mobile_app/
