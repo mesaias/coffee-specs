@@ -1,7 +1,7 @@
 {
   "name": "coffe-specs",
   "version": "1.0.0",
-  "description": "> [!IMPORTANT]  \r > Versión muy temprana del proyecto. Por el momento solo las recetas de [Moka 150ml](metodos-presion/moka-150ml.md) y [Brikka 4 tazas](metodos-presion/brikka-4-tazas.md) están completas.",
+  "description": "> [!IMPORTANT]  \r > Versión muy temprana del proyecto. Por el momento solo las recetas de [Moka 3 Tazas](metodos-presion/moka-3-tazas-adaptador-induction-arabico-estandar.md) y [Brikka Induction](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md) están completas.",
   "main": "index.js",
   "scripts": {
     "generate-pdf": "node scripts/generate-pdf.js",

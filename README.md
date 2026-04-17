@@ -1,7 +1,7 @@
 # ☕ Coffee Specs - Libro de Recetas de Café
 
 > [!IMPORTANT]  
-> Versión muy temprana del proyecto. Por el momento solo las recetas de [Moka 150ml](metodos-presion/moka-150ml.md) y [Brikka Induction](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md) están completas.
+> Versión muy temprana del proyecto. Por el momento solo las recetas de [Moka 3 Tazas](metodos-presion/moka-3-tazas-adaptador-induction-arabico-estandar.md) y [Brikka Induction](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md) están completas.
 
 Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y compartir tus métodos favoritos para cada cafetera y equipamiento.
 
@@ -15,7 +15,8 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Brikka Induction: Geisha Huatusco (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-geisha-agua-precalentada.md)
 - [Brikka Induction: Huupa Descafeinado (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-descafeinado-agua-precalentada.md)
 - [Brikka Induction: Kirkland Tostado Medio (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-kirland-tostado-medio-agua-precalentada.md)
-- [Moka 150ml](metodos-presion/moka-150ml.md)
+- [Moka Tradicional: Arábico 3 Tazas (Adaptador Inducción)](metodos-presion/moka-3-tazas-adaptador-induction-arabico-estandar.md)
+- [Moka Tradicional: Kirkland 3 Tazas (Adaptador Inducción)](metodos-presion/moka-3-tazas-adaptador-induction-kirkland-tostado-medio.md)
 - [Moka Tradicional: Arábico 6 Tazas (Adaptador Inducción)](metodos-presion/moka-6-tazas-adaptador-induction-arabico-estandar.md)
 - [Moka Tradicional: Huupa Descafeinado (Adaptador Inducción)](metodos-presion/moka-6-tazas-adaptador-induction-arabico-descafeinado.md)
 
