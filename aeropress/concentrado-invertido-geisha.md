@@ -5,8 +5,8 @@
 - **Ratio**: 1:10 (Perfil de alta intensidad)
 - **Café**: **20g** (Geisha Huatusco)
 - **Agua**: **200ml** (Límite físico de seguridad para invertido)
-- **Molienda**: Media-Fina / **Nivel 38** en DF54 (Calibrado)
-- **Temperatura**: **195°F (90°C)** [Modo Oolong en tetera]
+- **Molienda**: Media-Fina / **Nivel 38** en DF54
+- **Temperatura**: **195°F (90°C)**
 
 ## 🛠️ Equipamiento adicional
 - [x] Filtro de papel (Enjuagado)

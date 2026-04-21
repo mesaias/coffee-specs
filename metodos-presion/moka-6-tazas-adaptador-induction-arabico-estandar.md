@@ -1,7 +1,7 @@
-# ☕ Moka Tradicional: Arábico 6 Tazas (10oz) - Validada
+# ☕ Moka Tradicional: Arábico 6 Tazas (300ml) - Validada
 
 ## ☕ Ficha técnica
-- **Método**: Cafetera Moka Tradicional (6 tazas / 300ml)
+- **Método**: Moka Pot Tradicional (6 tazas / 300ml) + Adaptador de Inducción
 - **Ratio**: ~1:10.7
 - **Café**: 28g (Arábico con cafeína)
 - **Agua**: 300ml (Hasta justo debajo de la válvula)
@@ -19,7 +19,7 @@
 2. **Molienda**: Moler 28g en el nivel 23 de la DF54.
 3. **Carga**: Llenar el embudo con el café nivelando con golpecitos laterales. **No compactar** para permitir que el adaptador venza la inercia térmica sin quemar el grano.
 4. **Montaje**: Verter el agua caliente en la base, colocar el embudo y cerrar firmemente con un trapo grueso.
-5. **Inducción**: 
+5. **Extracción**:
     - Iniciar en **Nivel 9 (Boost)** para calentar el disco adaptador rápidamente.
     - En cuanto aparezca el primer flujo de café, bajar a **Nivel 7**.
 6. **Corte**: Retirar del fuego a los **4:00 minutos** exactos. El flujo debe ser constante; si empieza a clarear o burbujear antes, retirar de inmediato.

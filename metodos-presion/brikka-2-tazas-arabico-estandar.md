@@ -7,7 +7,7 @@ Esta receta adapta la intensidad de la Brikka a un formato individual o de parej
 - **Ratio**: 1:4.5 (Aproximadamente)
 - **Café**: **15g** (Arábico Daily - Tueste Medio)
 - **Agua**: **65ml - 70ml** (Hasta la marca interna o justo debajo de la válvula)
-- **Molienda**: Fina / **Nivel 18** en DF54 (Calibrado)
+- **Molienda**: Media-fina / **Nivel 18** en DF54 (Calibrado)
 - **Temperatura**: **Agua Precalentada** (Hirviendo antes de verter a la base)
 
 ## 🛠️ Equipamiento adicional

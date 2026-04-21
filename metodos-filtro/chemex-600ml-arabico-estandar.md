@@ -1,7 +1,7 @@
 # ☕ Chemex: Arábico Daily (4 tazas / 600ml)
 
 ## ☕ Ficha técnica
-- **Método**: Chemex (6 tazas de cristal)
+- **Método**: Chemex (6 tazas)
 - **Ratio**: 1:15
 - **Café**: 40g (Arábico con cafeína)
 - **Agua**: 600ml

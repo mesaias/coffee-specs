@@ -6,11 +6,11 @@
 ---
 
 ## ☕ Ficha técnica
-- **Método**: V60 (Dripper)
+- **Método**: Hario V60 (Dripper)
 - **Ratio**: 1:12.2 (Base) - Ajustable hasta 1:16
 - **Café**: 18g (Tueste medio)
 - **Agua**: 220ml (Embotellada o filtrada)
-- **Molienda**: Media (V60) / **~1,200 μm** (Referencia: ajuste de molino de muelas)
+- **Molienda**: Media
 - **Temperatura**: Variable según altitud (Ej: 82°C a 1,000 msnm / 93°C a nivel del mar)
 
 ## 🛠️ Equipamiento adicional
