@@ -6,7 +6,7 @@
 ---
 
 ## ☕ Ficha técnica
-- **Método**: Cafetera Moka Tradicional (150ml)
+- **Método**: Moka Pot Tradicional (3 tazas / 150ml) + Adaptador de Inducción
 - **Ratio**: 1:7.5 (Aproximado)
 - **Café**: 16g (Ajustado al volumen del embudo)
 - **Agua**: 150ml (Hasta la válvula de seguridad)
@@ -22,9 +22,9 @@
 ## 📝 Procedimiento
 1. **Molienda**: Ajustar la DF54 al **nivel 22**. Esta molienda es más gruesa que la de Brikka para permitir un flujo constante sin generar presión excesiva.
 2. **Carga del Café**: Verter los 16g en el embudo. Nivelar la superficie con ligeros golpes laterales; **no compactar** para evitar que el agua se estanque.
-3. **Llenado de Agua**: Verter 150ml en la base, asegurando que el nivel quede justo por debajo de la válvula de seguridad.
+3. **Llenado de Agua**: Verter agua en la base, asegurando que el nivel quede justo por debajo de la válvula de seguridad.
 4. **Cierre**: Enroscar firmemente asegurando que no haya residuos de café en la junta de goma.
-5. **Gestión de Calor**: 
+5. **Extracción**:
     - Colocar en inducción a potencia media-alta (**Nivel 7 u 8**).
     - Mantener la tapa abierta para observar el flujo.
 6. **Corte y Enfriado**: En cuanto el flujo cambie de un chorro denso a una fase de burbujas claras (fase de vapor), retirar del fuego y verter de inmediato.

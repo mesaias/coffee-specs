@@ -24,7 +24,7 @@
 2. **Molienda y Carga**: Moler en nivel 19. Verter en el filtro cónico poco a poco, dando golpes laterales para asentar el café por gravedad. **No compactar**.
 3. **Limpieza de Bordes**: Asegurar que no quede ni un grano de café en la rosca o la junta de goma para garantizar un sello 100% hermético.
 4. **Cierre de Seguridad**: Enroscar con fuerza máxima manual sujetando el cuerpo metálico (evitar hacer palanca con el mango de plástico).
-5. **Gestión de Calor**: 
+5. **Extracción**:
     - Iniciar en **Nivel 8** de inducción.
     - Al primer siseo o rastro de café, bajar inmediatamente a **Nivel 5**.
 6. **Corte y Servicio**: Retirar de la placa al primer cambio de sonido (fase de vapor/burbujeo). Servir de inmediato a 45° en tazas calientes para intentar preservar la crema volátil.

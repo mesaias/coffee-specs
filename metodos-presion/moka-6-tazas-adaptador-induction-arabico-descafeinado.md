@@ -1,7 +1,7 @@
-# ☕ Moka Tradicional: Huupa Descafeinado (6 tazas / 10oz)
+# ☕ Moka Tradicional: Huupa Descafeinado (6 tazas / 300ml)
 
 ## ☕ Ficha técnica
-- **Método**: Cafetera Moka Tradicional (6 tazas / 300ml)
+- **Método**: Moka Pot Tradicional (6 tazas / 300ml) + Adaptador de Inducción
 - **Ratio**: ~1:10.7
 - **Café**: 28g (Huupa - Tueste Medio Oscuro / Descafeinado Natural)
 - **Agua**: 300ml (Hasta la válvula)

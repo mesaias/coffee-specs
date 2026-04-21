@@ -1,11 +1,11 @@
 # ☕ Brikka: Kirkland Tostado Medio - Daily Driver (v1.5 FINAL)
 
 ## ☕ Ficha técnica
-- **Método**: Bialetti Brikka (Inducción)
+- **Método**: Brikka Induction (4 tazas)
 - **Ratio**: ~1:6 (Concentrado Daily)
 - **Café**: **25g** (Kirkland Tostado Medio) ⚠️ *Dosis validada para evitar desborde.*
 - **Agua**: **150ml** (Nivel estándar, precalentada a 140°F/60°C)
-- **Molienda**: Fina / **Nivel 22** en DF54 (Calibrado) ✅ *Resulta en crema densa.*
+- **Molienda**: Media-fina / **Nivel 22** en DF54 (Calibrado) ✅ *Resulta en crema densa.*
 - **Inducción**: **Nivel 7**
 
 ## 📝 Procedimiento

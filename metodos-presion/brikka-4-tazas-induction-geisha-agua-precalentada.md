@@ -19,9 +19,8 @@
 2. **Molienda**: Pesar 28g de Geisha y moler en el nivel 17 de la DF54 para asegurar un flujo constante y sin bloqueos.
 3. **Carga**: Verter el café en el filtro cónico y nivelar con golpecitos laterales; no aplicar presión sobre la pastilla.
 4. **Ensamble**: Verter el agua caliente en la base de la Brikka y enroscar el recolector superior inmediatamente usando el trapo para lograr un sello hermético.
-5. **Inducción**: Colocar sobre la estufa en Nivel 8.
-6. **Extracción**: Al observar la salida del café (que debe ser laminar y sin turbulencia), mantener la potencia hasta escuchar el siseo final.
-7. **Corte**: Retirar de la placa en cuanto el siseo sea constante para evitar el sabor a quemado.
+5. **Extracción**: Colocar sobre la estufa en **Nivel 8**. Al observar la salida del café (que debe ser laminar y sin turbulencia), mantener la potencia hasta escuchar el siseo final.
+6. **Corte**: Retirar de la placa en cuanto el siseo sea constante para evitar el sabor a quemado.
 
 ## 📸 Bitácora de Imágenes
 - **Extracción Validada**:

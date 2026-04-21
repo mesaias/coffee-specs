@@ -5,7 +5,7 @@
 - **Ratio**: 1:15
 - **Café**: **40g** (Geisha Huatusco - Tueste Medio)
 - **Agua**: 600ml
-- **Molienda**: Media-Gruesa / **Nivel 70** en DF54 (Calibrado)
+- **Molienda**: Media-Gruesa / **Nivel 70** en DF54
 - **Temperatura**: **205°F (96°C)** [Modo Coffee en tetera]
 
 ## 🛠️ Equipamiento adicional

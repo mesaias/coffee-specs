@@ -10,7 +10,7 @@
 - **Ratio**: 1:5.3
 - **Café**: 28g (Huupa - Tueste Medio Oscuro)
 - **Agua**: 150ml (Precalentada)
-- **Molienda**: Nivel 17 en DF54
+- **Molienda**: Media-fina / **Nivel 17** en DF54 (Calibrado)
 - **Temperatura**: Agua precalentada (~75°C) para reducir tiempo en estufa
 
 ## 🛠️ Equipamiento adicional

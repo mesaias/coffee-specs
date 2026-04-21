@@ -10,7 +10,7 @@
 - **Ratio**: 1:5.3 (28g / 150ml)
 - **Café**: 28g (Arábico con cafeína)
 - **Agua**: 150ml (Precalentada a ~75°C)
-- **Molienda**: **Nivel 17** en DF54
+- **Molienda**: Media-fina / **Nivel 17** en DF54 (Calibrado)
 - **Temperatura**: Inicio con agua caliente para proteger el perfil dulce.
 
 ## 🛠️ Equipamiento adicional
