@@ -1,4 +1,4 @@
-# ☕ Brikka Induction: Protocolo de Flujo Continuo (v3)
+# ☕ Brikka Induction 4 tazas: Protocolo de Flujo Continuo
 
 **Estado:** 🟠 En prueba (Próximo intento: 06-03-2026)
 **Objetivo:** Corregir el flujo violento ("escupitajo") y la sobre-extracción oscura observada en el nivel 16 de la DF54.
@@ -10,7 +10,7 @@
 - **Ratio**: 1:5.3 (Concentrado tipo espresso)
 - **Café**: 28g (Geisha Huatusco - Tueste Medio)
 - **Agua**: 150ml (Filtrada / Temp. ambiente)
-- **Molienda**: Fina / **Nivel 19** en DF54 (ajuste micrométrico)
+- **Molienda**: Fina / **Nivel 19** en DF54
 - **Temperatura**: Inicio con agua natural; extracción controlada por inducción
 
 ## 🛠️ Equipamiento adicional

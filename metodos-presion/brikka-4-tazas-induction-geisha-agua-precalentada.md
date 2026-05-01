@@ -1,4 +1,4 @@
-# ☕ Brikka: Geisha Huatusco - Protocolo de Especialidad (v5.1)
+# ☕ Brikka Induction 4 tazas: Geisha Huatusco - Protocolo de Especialidad
 
 ## ☕ Ficha técnica
 - **Método**: Brikka Induction (4 tazas)

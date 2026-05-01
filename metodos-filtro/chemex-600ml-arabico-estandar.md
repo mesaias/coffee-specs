@@ -1,4 +1,4 @@
-# ☕ Chemex: Arábico Daily (4 tazas / 600ml)
+# ☕ Chemex 4 tazas: Arábico Daily
 
 ## ☕ Ficha técnica
 - **Método**: Chemex (6 tazas)

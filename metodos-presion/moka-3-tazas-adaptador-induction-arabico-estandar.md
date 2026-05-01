@@ -1,4 +1,4 @@
-# ☕ Moka 3 Tazas (150ml)
+# ☕ Moka Pot 3 Tazas
 
 **Estado:** ✅ Validada (Resultado balanceado y consistente)
 **Objetivo:** Extracción limpia con cuerpo medio, evitando el amargor por sobre-calentamiento.

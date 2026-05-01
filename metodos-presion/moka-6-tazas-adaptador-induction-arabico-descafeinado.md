@@ -1,4 +1,4 @@
-# ☕ Moka Tradicional: Huupa Descafeinado (6 tazas / 300ml)
+# ☕ Moka Pot 6 tazas: Huupa Descafeinado
 
 ## ☕ Ficha técnica
 - **Método**: Moka Pot Tradicional (6 tazas / 300ml) + Adaptador de Inducción

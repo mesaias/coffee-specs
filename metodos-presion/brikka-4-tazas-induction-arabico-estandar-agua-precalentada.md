@@ -1,4 +1,4 @@
-# ☕ Brikka: Arábico Daily (v2.2 - Validada)
+# ☕ Brikka 4 tazas: Arábico Daily
 
 **Estado:** ✅ EXITO (Validado el 08-03-2026)
 **Resultado:** Extracción con cuerpo denso, crema elástica y flujo laminar sin turbulencia.
@@ -10,7 +10,7 @@
 - **Ratio**: 1:5.3 (28g / 150ml)
 - **Café**: 28g (Arábico con cafeína)
 - **Agua**: 150ml (Precalentada a ~75°C)
-- **Molienda**: Media-fina / **Nivel 17** en DF54 (Calibrado)
+- **Molienda**: Media-fina / **Nivel 17** en DF54
 - **Temperatura**: Inicio con agua caliente para proteger el perfil dulce.
 
 ## 🛠️ Equipamiento adicional

@@ -1,4 +1,4 @@
-# ☕ Brikka Induction: Arábico Estándar (v2.1 - Validada)
+# ☕ Brikka Induction 4 tazas: Arábico Estándar
 
 **Estado:** ✅ EXITO (Validado el 08-03-2026)
 **Resultado:** Extracción con cuerpo denso, crema elástica y flujo laminar sin turbulencia.

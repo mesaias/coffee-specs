@@ -1,4 +1,4 @@
-# ☕ Brikka: Kirkland Tostado Medio - Daily Driver (v1.5 FINAL)
+# ☕ Brikka Induction 4 tazas: Kirkland Tostado Medio - Daily Driver
 
 ## ☕ Ficha técnica
 - **Método**: Brikka Induction (4 tazas)

@@ -1,4 +1,4 @@
-# ☕ Moka Tradicional: Arábico 6 Tazas (300ml) - Validada
+# ☕ Moka Pot 6 tazas: Arábico Daily
 
 ## ☕ Ficha técnica
 - **Método**: Moka Pot Tradicional (6 tazas / 300ml) + Adaptador de Inducción

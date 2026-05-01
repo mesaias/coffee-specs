@@ -1,4 +1,4 @@
-# ☕ Brikka: Baja Desert Decaf - Sierra Mixteca
+# ☕ Brikka Induction 4 tazas: Baja Desert Decaf - Sierra Mixteca
 
 ## ☕ Ficha técnica
 - **Método**: Brikka Induction (4 tazas)

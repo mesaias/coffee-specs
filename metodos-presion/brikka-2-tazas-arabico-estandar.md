@@ -1,4 +1,4 @@
-# ☕ Brikka 2 Tazas: Arábico Estándar (Daily)
+# ☕ Brikka 2 Tazas: Arábico Estándar
 
 Esta receta adapta la intensidad de la Brikka a un formato individual o de pareja, manteniendo la molienda fina para asegurar la generación de crema característica.
 

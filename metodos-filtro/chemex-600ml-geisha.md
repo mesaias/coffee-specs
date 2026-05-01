@@ -1,7 +1,7 @@
-# ☕ Chemex: Geisha Huatusco - Calibración Zero (v2.0)
+# ☕ Chemex 4 tazas: Geisha Huatusco
 
 ## ☕ Ficha técnica
-- **Método**: Chemex (6 tazas)
+- **Método**: Chemex (4 tazas)
 - **Ratio**: 1:15
 - **Café**: **40g** (Geisha Huatusco - Tueste Medio)
 - **Agua**: 600ml

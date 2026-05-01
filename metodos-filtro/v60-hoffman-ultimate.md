@@ -5,7 +5,7 @@
 - **Ratio**: 1:16.7 (30g café / 500ml agua)
 - **Café**: 30g (Tueste Claro/Medio)
 - **Agua**: 500ml (98°C - 100°C)
-- **Molienda**: Nivel 18 en DF54 (Fina/Media)
+- **Molienda**: Fina-Media / Nivel 18 en DF54
 - **Temperatura**: Agua recién hervida (o 95°C para tuestes oscuros)
 
 ## 🛠️ Equipamiento adicional
