@@ -1,31 +1,5 @@
 {
   "permissions": {
-    "allow": [
-      "Bash(grep -h \"Molienda:\" G:/coffe-specs/mobile_app/assets/recipes/*.md)",
-      "Bash(cd G:/coffe-specs/mobile_app && flutter pub get 2>&1)",
-      "Bash(cd G:/coffe-specs/mobile_app && flutter analyze 2>&1)",
-      "Bash(cd G:/coffe-specs/mobile_app/assets/recipes && for f in brikka_4_tazas_induction_kirland_tostado_medio_agua_precalentada.md brikka_4_tazas_induction_geisha.md brikka_4_tazas_induction_arabico_estandar.md moka_3_tazas_induction_kirkland_tostado_medio.md; do sed -i '/<img/d' \"$f\" && echo \"cleaned $f\"; done)",
-      "Bash(grep -l \"Inducción\\\\|induccion\\\\|Nivel [0-9]\" G:/coffe-specs/mobile_app/assets/recipes/*.md)",
-      "Bash(cd G:/coffe-specs/mobile_app && dart run build_runner build --delete-conflicting-outputs 2>&1)",
-      "Bash(grep -h \"Molienda:\" G:/coffe-specs/mobile_app/assets/recipes/*.md | sort -u)",
-      "Bash(grep -h \"\\\\*\\\\*Molienda\\\\*\\\\*\" G:/coffe-specs/mobile_app/assets/recipes/*.md | sort -u)",
-      "Bash(grep -n \"Molienda.*Nivel\\\\|Inducción.*Nivel\" G:/coffe-specs/mobile_app/assets/recipes/*.md)",
-      "Bash(cd G:/coffe-specs/mobile_app && flutter build apk --debug 2>&1 | tail -20)",
-      "Bash(cd G:/coffe-specs && node scripts/sync-recipes-to-app.js)",
-      "WebSearch",
-      "WebFetch(domain:honestcoffeeguide.com)",
-      "WebFetch(domain:www.grindlogic.com.au)",
-      "WebFetch(domain:www.papelespresso.com)",
-      "WebFetch(domain:coffeechronicler.com)",
-      "WebFetch(domain:espressooutlet.com)",
-      "WebFetch(domain:support.clivecoffee.com)",
-      "WebFetch(domain:www.home-barista.com)",
-      "WebFetch(domain:www.tomsgrinderlab.com)",
-      "WebFetch(domain:cafefabrique.com)",
-      "Bash(for f:*)",
-      "Bash(do echo:*)",
-      "Read(//g/coffe-specs/**)",
-      "Bash(done)"
-    ]
+    "allow": []
   }
 }
