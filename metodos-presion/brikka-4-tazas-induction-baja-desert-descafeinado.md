@@ -1,7 +1,7 @@
 # ☕ Brikka: Baja Desert Decaf - Sierra Mixteca
 
 ## ☕ Ficha técnica
-- **Método**: Bialetti Brikka (Inducción)
+- **Método**: Brikka Induction (4 tazas)
 - **Ratio**: ~1:5.8
 - **Café**: **26g** (Baja Desert Descafeinado) ✅ *Dosis óptima para evitar desbordes por baja densidad*
 - **Agua**: **150ml**

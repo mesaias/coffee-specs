@@ -5,8 +5,8 @@
 - **Ratio**: 1:15
 - **Café**: **15g** (Kirkland Tostado Medio)
 - **Agua**: **225ml**
-- **Molienda**: Media-Fina / **Nivel 35** en DF54 (Calibrado) ✅
-- **Temperatura**: **195°F (90°C)** [Modo Oolong] ⚠️
+- **Molienda**: Media-Fina / **Nivel 35** en DF54
+- **Temperatura**: **195°F (90°C)**⚠️
 
 ## 🛠️ Equipamiento adicional
 - [x] Filtro de papel (Enjuagado)

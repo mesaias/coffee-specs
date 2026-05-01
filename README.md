@@ -28,6 +28,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [V60 Especialidad](metodos-filtro/v60-especialidad.md)
 - [V60: James Hoffmann Ultimate Technique](metodos-filtro/v60-hoffman-ultimate.md)
 - [V60: Kirkland Tostado Medio](metodos-filtro/v60-kirland-tostado-medio.md)
+- [V60: Método Tetsu Kasuya (4:6)](metodos-filtro/v60-tetsu-kasuya.md)
 
 ### 🚀 Métodos de AeroPress
 - [AeroPress: James Hoffmann Ultimate Recipe](aeropress/aeropress-hoffman-ultimate.md)
