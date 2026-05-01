@@ -1,4 +1,4 @@
-# ☕ Moka 3 Tazas: Kirkland - Adaptador Inducción (STABLE)
+# ☕ Moka Pot 3 Tazas: Kirkland - Adaptador Inducción
 
 ## ☕ Ficha técnica
 - **Método**: Moka Pot Tradicional (3 tazas / 150ml) + Adaptador de Inducción

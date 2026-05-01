@@ -1,4 +1,4 @@
-# ☕ Moka Pot Tradicional (150ml)
+# ☕ Moka 3 Tazas (150ml)
 
 **Estado:** ✅ Validada (Resultado balanceado y consistente)
 **Objetivo:** Extracción limpia con cuerpo medio, evitando el amargor por sobre-calentamiento.
@@ -25,7 +25,7 @@
 3. **Llenado de Agua**: Verter agua en la base, asegurando que el nivel quede justo por debajo de la válvula de seguridad.
 4. **Cierre**: Enroscar firmemente asegurando que no haya residuos de café en la junta de goma.
 5. **Extracción**:
-    - Colocar en inducción a potencia media-alta (**Nivel 7 u 8**).
+    - Colocar en inducción a potencia media-alta (**Nivel 8 o 9**).
     - Mantener la tapa abierta para observar el flujo.
 6. **Corte y Enfriado**: En cuanto el flujo cambie de un chorro denso a una fase de burbujas claras (fase de vapor), retirar del fuego y verter de inmediato.
 
