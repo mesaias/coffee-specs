@@ -1,0 +1,81 @@
+name: Build & Release Android APK
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    name: Build & Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'zulu'
+          java-version: '17'
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.x'
+          channel: 'stable'
+          cache: true
+
+      - name: Get Dependencies
+        run: flutter pub get
+        working-directory: mobile_app
+
+      - name: Run Build Runner
+        run: flutter pub run build_runner build --delete-conflicting-outputs
+        working-directory: mobile_app
+
+      - name: Build APK
+        run: flutter build apk --release --split-per-abi
+        working-directory: mobile_app
+
+      - name: Rename APKs for Release
+        run: |
+          mv mobile_app/build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk mobile_app/build/app/outputs/flutter-apk/CoffeeSpecs-v7a.apk
+          mv mobile_app/build/app/outputs/flutter-apk/app-arm64-v8a-release.apk mobile_app/build/app/outputs/flutter-apk/CoffeeSpecs-v8a.apk
+          mv mobile_app/build/app/outputs/flutter-apk/app-x86_64-release.apk mobile_app/build/app/outputs/flutter-apk/CoffeeSpecs-x86_64.apk
+
+      - name: Create Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            mobile_app/build/app/outputs/flutter-apk/CoffeeSpecs-v7a.apk
+            mobile_app/build/app/outputs/flutter-apk/CoffeeSpecs-v8a.apk
+            mobile_app/build/app/outputs/flutter-apk/CoffeeSpecs-x86_64.apk
+          name: Release ${{ github.ref_name }}
+          draft: false
+          prerelease: false
+          body: |
+            ## Coffee Specs App - Release ${{ github.ref_name }}
+            
+            Build automático de la aplicación móvil.
+            
+            ### Archivos incluidos:
+            * **v8a**: Para teléfonos modernos (la mayoría).
+            * **v7a**: Para teléfonos antiguos.
+            * **x86_64**: Para emuladores o dispositivos específicos.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload Artifacts (Branch Builds)
+        if: "!startsWith(github.ref, 'refs/tags/v')"
+        uses: actions/upload-artifact@v4
+        with:
+          name: coffee-specs-apks
+          path: mobile_app/build/app/outputs/flutter-apk/CoffeeSpecs-*.apk
