@@ -11,6 +11,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Brikka 2 Tazas: Arábico Estándar](metodos-presion/brikka-2-tazas-arabico-estandar.md)
 - [Brikka Induction: Arábico Estándar](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md)
 - [Brikka Induction: Arábico Daily (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-estandar-agua-precalentada.md)
+- [Brikka Induction: Baja Desert Decaf (Sierra Mixteca)](metodos-presion/brikka-4-tazas-induction-baja-desert-descafeinado.md)
 - [Brikka Induction: Geisha Huatusco](metodos-presion/brikka-4-tazas-induction-geisha.md)
 - [Brikka Induction: Geisha Huatusco (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-geisha-agua-precalentada.md)
 - [Brikka Induction: Huupa Descafeinado (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-descafeinado-agua-precalentada.md)
@@ -25,9 +26,13 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Chemex: Geisha Huatusco (600ml)](metodos-filtro/chemex-600ml-geisha.md)
 - [V60 50g](metodos-filtro/v60-50g.md)
 - [V60 Especialidad](metodos-filtro/v60-especialidad.md)
+- [V60: James Hoffmann Ultimate Technique](metodos-filtro/v60-hoffman-ultimate.md)
 - [V60: Kirkland Tostado Medio](metodos-filtro/v60-kirland-tostado-medio.md)
+- [V60: Método Tetsu Kasuya (4:6)](metodos-filtro/v60-tetsu-kasuya.md)
 
 ### 🚀 Métodos de AeroPress
+- [AeroPress: James Hoffmann Ultimate Recipe](aeropress/aeropress-hoffman-ultimate.md)
+- [AeroPress: Kirkland Tostado Medio (Invertido)](aeropress/aeropress-invertido-kirkland.md)
 - [AeroPress: Geisha - Concentrado Invertido](aeropress/concentrado-invertido-geisha.md)
 
 ### ⚙️ Equipamiento y Calibración

@@ -5,7 +5,7 @@
 - **Ratio**: 1:10 (Aproximado)
 - **Café**: **15g** (Kirkland Tostado Medio) ⚠️ *Dosis ajustada por baja densidad del grano*
 - **Agua**: **150ml** (Hasta el centro de la válvula)
-- **Molienda**: Fina-Media / **Nivel 23** en DF54 (Calibrado con Zero-Point Real) ✅
+- **Molienda**: Fina-Media / **Nivel 23** en DF54
 - **Temperatura**: **Agua Hirviendo** (205°F / 96°C)
 
 ## 🛠️ Equipamiento adicional

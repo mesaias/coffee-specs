@@ -14,9 +14,9 @@ Un libro de recetas de café colaborativo, fácil de editar en Markdown y con ge
 - **Comando:** `npm run generate-pdf` → genera `Coffee-Specs-Libro.pdf`.
 
 ## 📋 Estructura de Carpetas
-- **metodos-presion/:** Moka, Brikka (incluye variantes Kirkland, Geisha, Descafeinado).
-- **metodos-filtro/:** V60, Chemex (incluye variantes Kirkland, Geisha, Especialidad).
-- **aeropress/:** Recetas específicas para AeroPress (ej. Concentrado Invertido Geisha).
+- **metodos-presion/:** Moka, Brikka (incluye variantes Kirkland, Geisha, Descafeinado Baja Desert).
+- **metodos-filtro/:** V60 (Hoffmann, Especialidad, Kirkland), Chemex (Geisha, Estándar).
+- **aeropress/:** Recetas estándar e invertidas (James Hoffmann, Kirkland, Geisha).
 - **experimentos/:** Pruebas como Brikka con Cremina.
 - **equipamiento/:** Guías de calibración (DF54).
 - **templates/:** Plantilla base para nuevas recetas.

@@ -5,7 +5,7 @@
 - **Ratio**: 1:15
 - **Café**: **40g** (Kirkland Tostado Medio)
 - **Agua**: 600ml
-- **Molienda**: Media / **Nivel 50** en DF54 (Calibrado)
+- **Molienda**: Media / **Nivel 50** en DF54
 - **Temperatura**: **195°F (90°C)**⚠️
 
 ## 🛠️ Equipamiento adicional
