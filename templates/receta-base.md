@@ -1,32 +1,25 @@
-# Brikka: Huupa Descafeinado Natural (v1.0)
+# [NOMBRE DE LA RECETA]
 
 ## ☕ Ficha técnica
-- **Método**: Brikka Induction (4 tazas)
-- **Ratio**: 1:5.3
-- **Café**: 28g (Huupa - Tueste Medio Oscuro)
-- **Agua**: 150ml (Precalentada)
-- **Molienda**: Nivel 22 en DF54
-- **Temperatura**: Agua precalentada (~75°C) para reducir tiempo en estufa
+- **Método**: [Ej: V60, Brikka, Aeropress]
+- **Ratio**: [Ej: 1:15]
+- **Café**: [Ej: 20g]
+- **Agua**: [Ej: 300ml]
+- **Molienda**: [Ej: Media-fina / 15 clics en DF54]
+- **Temperatura**: [Ej: 93°C]
 
 ## 🛠️ Equipamiento adicional
-- [x] Báscula (Precisión 0.1g)
-- [x] Cronómetro (Para monitorear tiempo de subida)
-- [x] Molino DF54 (Flat Burrs)
-- [x] Trapo de cocina (Para cierre de base caliente)
+- [ ] Báscula
+- [ ] Cronómetro
+- [ ] [Otros...]
 
 ## 📝 Procedimiento
-1. **Preparación**: Calentar 150ml de agua por separado hasta los 75°C aproximadamente.
-2. **Molienda**: Moler los 28g en nivel 22 de la DF54; usar RDT si el grano descafeinado genera mucha estática.
-3. **Carga**: Verter el café en el filtro cónico y nivelar con ligeros golpes laterales sin compactar.
-4. **Ensamble**: Verter el agua caliente en la base y cerrar con fuerza máxima usando un trapo para protegerse del calor.
-5. **Extracción**: Colocar en inducción nivel 8. Al primer siseo y flujo de café, bajar inmediatamente a nivel 5.
-6. **Corte**: Retirar de la placa en cuanto el flujo cubra el fondo y el siseo se vuelva constante.
+1. [Paso 1...]
+2. [Paso 2...]
+3. [Paso 3...]
 
 ## 📸 Bitácora de Imágenes (Opcional)
-- **Extracción**: [Insertar referencia a 1000343986.mp4]
-- **Resultado final**: [Insertar referencia a 1000344000.jpg]
 
 ## 💡 Notas y consejos (Opcional)
-- *Este café es ideal para bebidas con leche debido a su tueste medio oscuro y proceso de descafeinado en leña.*
-- *Si notas el flujo inicial muy violento ("escupitajo"), subir a nivel 23 en la DF54 para reducir la resistencia inicial.*
-- *Al ser descafeinado, el grano es más frágil; no permitas que la cafetera repose en la inducción apagada para evitar amargor excesivo.*
+- *[Ej: Si queda muy amargo, aumentar ligeramente el tamaño de molienda]*
+- *[Ej: Tiempo total estimado: 3:00 min]*
