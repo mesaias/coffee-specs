@@ -5,7 +5,7 @@
 - **Ratio**: 1:5.3
 - **Café**: **28g** (Don Justo No. 02 - Tueste Medio)
 - **Agua**: **150ml** (Agua Precalentada 🔥)
-- **Molienda**: Fina / **Nivel 23** en DF54 (Calibrado) ⚙️
+- **Molienda**: Fina / **Nivel 23** en DF54
 - **Parrilla Avera**: **Nivel 5** ✅
 
 ## 🛠️ Equipamiento adicional

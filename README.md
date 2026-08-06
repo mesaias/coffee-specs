@@ -11,6 +11,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Brikka 2 Tazas: Arábico Estándar](metodos-presion/brikka-2-tazas-arabico-estandar.md)
 - [Brikka Induction: Arábico Estándar](metodos-presion/brikka-4-tazas-induction-arabico-estandar.md)
 - [Brikka Induction: Arábico Daily (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-estandar-agua-precalentada.md)
+- [Brikka Induction: Arábico Tostado Medio Pluma](metodos-presion/brika-4-tazas-arabico-tostado-medio-pluma.md)
 - [Brikka Induction: Baja Desert Decaf (Sierra Mixteca)](metodos-presion/brikka-4-tazas-induction-baja-desert-descafeinado.md)
 - [Brikka Induction: Don Justo No. 02 - Coatepec (Avera v1.0)](metodos-presion/brikka-4-tazas-induccion-don-justo-no-02-estandar.md)
 - [Brikka Induction: Geisha Huatusco](metodos-presion/brikka-4-tazas-induction-geisha.md)
@@ -25,11 +26,13 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 ### 🌊 Métodos de Filtro
 - [Chemex: Arábico Daily (4 tazas / 600ml)](metodos-filtro/chemex-600ml-arabico-estandar.md)
 - [Chemex: Geisha Huatusco (600ml)](metodos-filtro/chemex-600ml-geisha.md)
+- [Chemex: Mezcla Especial Chiapas - Bella Vista (600ml)](metodos-filtro/chemex-600ml-mezcla-especial-chiapas-bella-vista.md)
 - [V60 50g](metodos-filtro/v60-50g.md)
 - [V60 Especialidad](metodos-filtro/v60-especialidad.md)
 - [V60: James Hoffmann Ultimate Technique](metodos-filtro/v60-hoffman-ultimate.md)
 - [V60: Kirkland Tostado Medio](metodos-filtro/v60-kirland-tostado-medio.md)
 - [V60: Método Tetsu Kasuya (4:6)](metodos-filtro/v60-tetsu-kasuya.md)
+- [V60: Mezcla Especial Chiapas - Bella Vista (600ml)](metodos-filtro/v60-600ml-mezcla-especial-chiapas.md)
 
 ### 🚀 Métodos de AeroPress
 - [AeroPress: James Hoffmann Ultimate Recipe](aeropress/aeropress-hoffman-ultimate.md)
