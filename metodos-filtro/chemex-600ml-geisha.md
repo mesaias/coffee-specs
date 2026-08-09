@@ -15,9 +15,9 @@
 
 ## 📝 Procedimiento
 1. **Blooming**: Verter 80g de agua. Agitar suavemente con una cuchara (3 vueltas) para asegurar que no queden bolsas de aire. Esperar 45s.
-2. **Primer Vertido**: Verter de forma circular hasta llegar a los **300g**. Mantener un flujo constante y evitar tocar las paredes del filtro de papel.
-3. **Segundo Vertido**: Al llegar a los 2:30 min (o cuando el agua haya bajado a la mitad), verter el resto hasta completar los **600g**.
-4. **Finalización**: El flujo de agua debe terminar entre los **4:30 y 4:50 min**.
+2. **Primer Vertido**: Verter de forma circular hasta llegar a los **300g**. Mantener un flujo constante y evitar tocar las paredes del filtro de papel. Esperar **1:45**.
+3. **Segundo Vertido**: Al llegar al minuto 2:30 (o cuando el agua haya bajado a la mitad), verter el resto hasta completar los **600g**. Esperar **2:00**.
+4. **Finalización**: El flujo de agua debe terminar entre los 4:30 y 4:50.
 5. **Corte**: Retirar el filtro en cuanto el goteo sea muy lento para evitar extraer taninos amargos al final.
 
 ## 💡 Notas y consejos

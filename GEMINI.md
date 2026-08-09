@@ -14,7 +14,7 @@ Un libro de recetas de café colaborativo, fácil de editar en Markdown y con ge
 - **Comando:** `npm run generate-pdf` → genera `Coffee-Specs-Libro.pdf`.
 
 ## 📋 Estructura de Carpetas
-- **metodos-presion/:** Moka, Brikka (incluye variantes Kirkland, Geisha, Descafeinado Baja Desert).
+- **metodos-presion/:** Moka, Brikka (incluye variantes Kirkland, Geisha, Descafeinado Baja Desert, Don Justo No. 02).
 - **metodos-filtro/:** V60 (Hoffmann, Especialidad, Kirkland), Chemex (Geisha, Estándar).
 - **aeropress/:** Recetas estándar e invertidas (James Hoffmann, Kirkland, Geisha).
 - **experimentos/:** Pruebas como Brikka con Cremina.

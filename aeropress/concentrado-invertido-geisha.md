@@ -17,9 +17,9 @@
 ## 📝 Procedimiento
 1. **Configuración**: Coloca el émbolo justo en la marca del "4" y voltea la AeroPress. Asegúrate de que el sello sea firme.
 2. **Molienda**: Moler 20g en el **Nivel 38**. Es un punto intermedio: más grueso que para Brikka pero más fino que para Chemex.
-3. **Blooming**: Vierte 50g de agua y **agita vigorosamente** con la paleta por 10 segundos para asegurar que todo el Geisha se moje. Esperar hasta el segundo 30.
+3. **Blooming**: Vierte 50g de agua y agita vigorosamente con la paleta para asegurar que todo el Geisha se moje. Esperar **30s**.
 4. **Llenado**: Vierte el resto del agua (150g) suavemente hasta llegar casi al borde del cilindro.
-5. **Inmersión**: Coloca la tapa con el filtro, saca el aire sobrante presionando un poco hacia arriba y espera hasta que el cronómetro marque **1:45 min**.
+5. **Inmersión**: Coloca la tapa con el filtro, saca el aire sobrante presionando un poco hacia arriba y espera **1:45**.
 6. **Extracción**: Voltea sobre tu taza con un movimiento decidido y presiona de forma constante durante **30 segundos**. Detente en cuanto escuches el "hiss" (el siseo del aire); no presiones el lodo del fondo.
 
 ## 💡 Notas y consejos

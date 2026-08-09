@@ -28,7 +28,7 @@
 6. **Segundo vertido (0:45 - 1:15)**: Verter 100ml adicionales de forma lenta y circular, sin tocar las paredes del filtro. La báscula debe marcar 136ml.
 7. **Reposo intermedio (1:15 - 1:45)**: Esperar 30 segundos mientras el agua drena. Opcionalmente, realizar 2-3 giros suaves para asentar la cama de café.
 8. **Tercer vertido (1:45)**: Verter los últimos 84ml con el mismo movimiento circular hasta alcanzar los 220ml totales.
-9. **Finalización (2:30 - 3:00)**: La extracción debería terminar entre los 2:30 y 3:00 minutos. Retirar el V60 y servir de inmediato.
+9. **Finalización (2:30 - 3:00)**: La extracción debería terminar entre los 2:30 y 3:00. Retirar el V60 y servir de inmediato.
 
 ## 💡 Notas y consejos
 - *Si el drenaje termina antes de 2:30, moler más fino. Si tarda más de 3:00, moler más grueso.*
