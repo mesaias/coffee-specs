@@ -15,9 +15,9 @@
 
 ## 📝 Procedimiento
 1. **Bloom**: 80ml / 45 segundos.
-2. **Primer Vertido**: Hasta 350ml (Flujo constante circular).
-3. **Segundo Vertido**: Al minuto 2:00, completar hasta 600ml.
-4. **Finalización**: Filtrado total en 4:01 min.
+2. **Primer Vertido**: Hasta 350ml (Flujo constante circular). Esperar **1:15**.
+3. **Segundo Vertido**: Al minuto 2:00, completar hasta 600ml. Esperar **2:00**.
+4. **Finalización**: Filtrado total en aproximadamente 4:01.
 
 ## 📸 Bitácora de Imágenes
 <img src="../assets/images/v60-600ml-mezcla-especial-chiapas.jpg" width="350">

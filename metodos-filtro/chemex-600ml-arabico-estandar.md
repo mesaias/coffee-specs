@@ -17,10 +17,10 @@
 ## 📝 Procedimiento
 1. **Preparación**: Colocar el filtro y enjuagarlo con abundante agua caliente para eliminar el sabor a papel. Tirar el agua de enjuague de la Chemex.
 2. **Molienda**: Moler 40g de café en **Nivel 69** de la DF54. Verter el café en el filtro y nivelar.
-3. **Blooming (Pre-infusión)**: Iniciar el cronómetro. Verter 80g de agua (195°F) rápidamente en círculos para saturar todo el café. Agitar suavemente con la cuchara para asegurar que no queden zonas secas. Esperar hasta el segundo :45.
+3. **Blooming (Pre-infusión)**: Iniciar el cronómetro. Verter 80g de agua (195°F) rápidamente en círculos para saturar todo el café. Agitar suavemente con la cuchara para asegurar que no queden zonas secas. Esperar **45s**.
 4. **Primer Vertido**: Verter agua constantemente en círculos concéntricos hasta llegar a los 350g. Mantener un flujo lento y constante.
 5. **Vertido Final**: Cuando el agua baje 1 cm del borde, verter el resto hasta completar los 600g. Tratar de terminar de verter alrededor del minuto 2:45.
-6. **Finalización**: El agua debería terminar de filtrar entre los 4:00 y 4:45 minutos. Si tarda más, el café será amargo.
+6. **Finalización**: El agua debería terminar de filtrar entre los 4:00 y 4:45. Si tarda más, el café será amargo.
 7. **Servicio**: Retirar el filtro y agitar suavemente la Chemex para mezclar y oxigenar el café antes de servir.
 
 ## 💡 Notas y consejos

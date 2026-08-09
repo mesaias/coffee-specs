@@ -17,7 +17,7 @@
 1. **Blooming**: 80g de agua. Agitar con suavidad para mojar todo el café. Esperar 45s.
 2. **Primer Vertido**: Verter circularmente hasta los **300g**.
 3. **Segundo Vertido**: Al bajar el agua, verter el resto hasta los **600g**.
-4. **Tiempo Objetivo**: 3:30 - 3:50 min (más rápido que Chemex por el grosor del papel).
+4. **Tiempo Objetivo**: 3:30 - 3:50 (más rápido que Chemex por el grosor del papel).
 
 ## 💡 Notas y consejos
 - *Si la filtración total tarda menos de 3:15, baja a **Nivel 45** en la DF54 para extraer más dulzor.*

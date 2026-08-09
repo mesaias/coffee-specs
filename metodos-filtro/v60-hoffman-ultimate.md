@@ -18,11 +18,11 @@
 1. **Preparación**: Enjuagar el filtro de papel con agua caliente para eliminar el sabor a papel y precalentar el cono.
 2. **Molienda**: Moler 30g de café en el **Nivel 18** de la DF54.
 3. **Bloom**: Verter 60g de agua y agitar suavemente el cono para asegurar que todo el café esté húmedo. Esperar hasta los 0:45s.
-4. **Primer Vertido**: Verter hasta llegar a 300g (el 60% del peso total) antes del minuto 1:15. El vertido debe ser constante y en círculos.
-5. **Segundo Vertido**: Verter los 200g restantes (hasta 500g totales) antes del minuto 1:45.
+4. **Primer Vertido**: Verter hasta llegar a 300g (el 60% del peso total) antes del minuto 1:15. El vertido debe ser constante y en círculos. Completar en **30s**.
+5. **Segundo Vertido**: Verter los 200g restantes (hasta 500g totales) antes del minuto 1:45. Completar en **30s**.
 6. **Agitación final**: Con una cuchara, revolver suavemente el borde una vez en cada dirección.
 7. **Asentado**: Dar un pequeño golpe seco al V60 contra la jarra para nivelar la cama de café.
-8. **Final**: El drenado total debería terminar entre los 3:00 y 3:30 minutos.
+8. **Final**: El drenado total debería terminar entre los 3:00 y 3:30.
 
 ## 💡 Notas y consejos
 - *Si el café tarda más de 3:30 en bajar, prueba subir un punto en la DF54 (**Nivel 19**).*

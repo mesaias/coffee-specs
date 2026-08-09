@@ -18,7 +18,7 @@
 1. **Configuración**: Colocar la AeroPress en posición invertida (el émbolo hacia abajo, la parte abierta hacia arriba). Agregar los 15g de café molido.
 2. **Vertido**: Agregar los 225ml de agua de manera rápida y constante para asegurar que todo el café se sature de inmediato.
 3. **Agitación**: Agitar vigorosamente con el agitador durante 10 segundos. Esto es clave con el Kirkland para romper grumos de un tueste más aceitoso y asegurar una extracción uniforme.
-4. **Reposo**: Colocar la tapa con el filtro previamente enjuagado y esperar hasta que el cronómetro marque **1:30 min**.
+4. **Reposo**: Colocar la tapa con el filtro previamente enjuagado y esperar **1:30**.
 5. **Inversión**: Con un movimiento fluido y seguro, girar la AeroPress sobre la taza o recipiente.
 6. **Presión**: Presionar de forma suave y constante. El proceso de bajada debe durar unos **30 segundos**. Detenerse inmediatamente al escuchar el siseo del aire.
 
