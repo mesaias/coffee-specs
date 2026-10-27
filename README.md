@@ -18,6 +18,9 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 - [Brikka Induction: Geisha Huatusco (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-geisha-agua-precalentada.md)
 - [Brikka Induction: Huupa Descafeinado (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-arabico-descafeinado-agua-precalentada.md)
 - [Brikka Induction: Kirkland Tostado Medio (Agua Precalentada)](metodos-presion/brikka-4-tazas-induction-kirland-tostado-medio-agua-precalentada.md)
+- [Espresso HiBrew H10 Plus: Don Justo No. 02 - Coatepec (DF54)](metodos-presion/hibrew-h10-plus-espresso-doj-justo-no02-coatepec.md)
+- [Espresso HiBrew H10 Plus: Huupa Descafeinado Natural (DF54)](metodos-presion/hibrew-h10-plus-expresso-huppa-descafeinado.md)
+- [Espresso HiBrew H10 Plus: Oaxaca Enmielado (DF54)](metodos-presion/hibrew-h10-plus-espresso-oaxaca-enmielado.md)
 - [Moka Tradicional: Arábico 3 Tazas (Adaptador Inducción)](metodos-presion/moka-3-tazas-adaptador-induction-arabico-estandar.md)
 - [Moka Tradicional: Kirkland 3 Tazas (Adaptador Inducción)](metodos-presion/moka-3-tazas-adaptador-induction-kirkland-tostado-medio.md)
 - [Moka Tradicional: Arábico 6 Tazas (Adaptador Inducción)](metodos-presion/moka-6-tazas-adaptador-induction-arabico-estandar.md)
@@ -53,7 +56,7 @@ Bienvenido a tu libro de recetas personal de café. Aquí puedes encontrar y com
 
 ## ✍️ ¿Cómo contribuir?
 1. Crea un nuevo archivo `.md` en la carpeta correspondiente.
-2. Utiliza la [Plantilla de Receta](templates/receta-base.md) para mantener el formato.
+2. Utiliza la [Plantilla de Receta](templates/receta-base.md) para mantener el formato (para espresso usa la [Plantilla de Espresso](templates/receta-espresso.md)).
 3. Añade tu nueva receta al índice de este archivo.
 
 ## 📄 Generar versión en PDF
